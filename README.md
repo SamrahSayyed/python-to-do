@@ -25,7 +25,7 @@ Perfect beginner project to practice **lists, loops, user input, and logic build
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/SamrahSayyed/python-todo-list.git
+   git clone [ https://github.com/SamrahSayyed/python-todo-list.git ]
 
 3. Navigate to the folder:
 
@@ -38,14 +38,15 @@ bash
 python todo.py
 
 # Tech Stack
-Language: Python 3.x
-Platform: Console
+- Language: Python 3.x
+- Platform: Console
 
 # About the Author
-- Samrah Sayyed
+Know More About:
+Samrah Sayyed ->
 - GitHub: @SamrahSayyed
 
 
 
 🌟 Show Some Love
-If you like this project, please ⭐ the repo and share it!
+- If you like this project, please ⭐ the repo and share it!
