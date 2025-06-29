@@ -3,7 +3,6 @@
 A simple console-based **To-Do List application** built using Python.  
 Perfect beginner project to practice **lists, loops, user input, and logic building**.
 
----
 
 ## Features
 
@@ -12,7 +11,6 @@ Perfect beginner project to practice **lists, loops, user input, and logic build
 -  Remove tasks
 -  Exit the app
 
----
 
 ## What I Learned
 
@@ -21,7 +19,6 @@ Perfect beginner project to practice **lists, loops, user input, and logic build
 - Using functions like `append()`, `pop()`, and `enumerate()`
 - Error handling with `try-except`
 
----
 
 ## How to Run
 
