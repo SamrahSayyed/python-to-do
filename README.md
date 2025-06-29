@@ -1,20 +1,20 @@
-# 📝 Python To-Do List App
+# Python To-Do List App
 
 A simple console-based **To-Do List application** built using Python.  
 Perfect beginner project to practice **lists, loops, user input, and logic building**.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📌 Add tasks
-- 📋 View all tasks
-- ❌ Remove tasks
-- 🔚 Exit the app
+-  Add tasks
+-  View all tasks
+-  Remove tasks
+-  Exit the app
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to use **lists**, **loops**, and **conditionals**
 - Taking user input using `input()`
@@ -23,13 +23,14 @@ Perfect beginner project to practice **lists, loops, user input, and logic build
 
 ---
 
-## 💻 How to Run
+## How to Run
 
 1. Clone this repository:
+   
    ```bash
    git clone https://github.com/SamrahSayyed/python-todo-list.git
 
-2. Navigate to the folder:
+3. Navigate to the folder:
 
 bash
 cd python-todo-list
@@ -41,12 +42,11 @@ python todo.py
 
 # Tech Stack
 Language: Python 3.x
-
 Platform: Console
 
-🙋‍♀️ Author
-Samrah Sayyed
-📌 GitHub: @SamrahSayyed
+# About the Author
+- Samrah Sayyed
+- GitHub: @SamrahSayyed
 
 
 
