@@ -1,13 +1,14 @@
+#make a list named tasks to store your tasks
 tasks =[]
-
+#keep the loop running
 while True:
   
-  print("--Welcome to The ToDo List--")
+  print("--Welcome to The ToDo List--")  #prints everytime
   print("1. View Tasks")
   print("2. Add a Task")
   print("3. Remove a Task")
   print("4. Exit")
-  choice = int(input("Enter your choice (1-4): "))
+  choice = int(input("Enter your choice (1-4): "))  #enter your choice
   
   if (choice == 1):
       
@@ -15,8 +16,8 @@ while True:
           print("No tasks yet!")
       else: 
           print("Your tasks are: ")
-          for idx, task in enumerate(tasks, start=1):
-                  print(f"{idx}. {task}")    
+          for idx, task in enumerate(tasks, start=1):     #this line sets up a loop that allows you to process each task in the tasks list along with its corresponding index
+                  print(f"{idx}. {task}")   #prints task with index number each time 
 
   elif (choice == 2):
       new_task = input(("Add your task: "))
@@ -35,7 +36,7 @@ while True:
                task_num = int(input("Enter the number of the task you want to remove: "))
                
                if(1 <= task_num <= len(tasks)):
-                    removed_task = tasks.pop(task_num-1)
+                    removed_task = tasks.pop(task_num-1)      #removes the task at pos -1
                     print(f"The task '{removed_task}' is removed!")
                else:     
                     print("The task number does not exist.")
