@@ -44,7 +44,7 @@ python todo.py
 # About the Author
 Know More About:
 Samrah Sayyed ->
-- GitHub: @SamrahSayyed
+- GitHub: [ @SamrahSayyed ]
 
 
 
