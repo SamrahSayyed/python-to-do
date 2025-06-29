@@ -24,7 +24,7 @@ Perfect beginner project to practice **lists, loops, user input, and logic build
 
 1. Clone this repository:
    
-   ```bash
+   bash
    git clone [ https://github.com/SamrahSayyed/python-todo-list.git ]
 
 3. Navigate to the folder:
